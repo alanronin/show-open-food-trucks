@@ -9,7 +9,7 @@ Make sure your development environment includes Node.js® and an npm package man
 - To get Node.js, go to `https://nodejs.org/en/`
 
 ## Installation Instructions
-1. Clone repository `https://github.com/alanronin/show-open-food-trucks.git`
+1. Clone repository Run: `git clone https://github.com/alanronin/show-open-food-trucks.git` or Download Zip file
 2. Run `npm install`
 3. Run `ng serve`
 
